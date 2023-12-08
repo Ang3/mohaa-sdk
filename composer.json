@@ -15,10 +15,10 @@
     "bin/mbuilder/MBuilder.exe",
     "bin/mohradiant/mohradiant.exe",
     "bin/mohradiant/mohradiant_fr.exe",
-    "bin/tools/BSP Viewer 3D.exe",
+    "bin/tools/BSP_Viewer3D.exe",
     "bin/tools/BspToMap.exe",
     "bin/tools/MohaaScriptEditor.exe",
     "bin/tools/MohaaTikEditor.exe",
-    "bin/tools/pakscape.exe"
+    "bin/tools/Pakscape.exe"
   ]
 }
