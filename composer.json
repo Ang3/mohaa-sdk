@@ -1,0 +1,24 @@
+{
+  "name": "ang3/mohaa-sdk",
+  "type": "binary",
+  "description": "MOHAA SDK for mods and maps development.",
+  "keywords": ["mohaa", "sdk", "mod", "map", "making", "mods", "maps"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joanis ROUANET",
+      "homepage": "https://github.com/Ang3/mohaa-sdk"
+    }
+  ],
+  "bin": [
+    "bin/console",
+    "bin/mbuilder/MBuilder.exe",
+    "bin/mohradiant/mohradiant.exe",
+    "bin/mohradiant/mohradiant_fr.exe",
+    "bin/tools/BSP Viewer 3D.exe",
+    "bin/tools/BspToMap.exe",
+    "bin/tools/MohaaScriptEditor.exe",
+    "bin/tools/MohaaTikEditor.exe",
+    "bin/tools/pakscape.exe"
+  ]
+}
