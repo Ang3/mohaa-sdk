@@ -40,12 +40,6 @@ Zip archive (binaries)
 Composer (PHP)
 --------------
 
-### Builder
-
-To easily build, test and release your contents, 
-I suggest you to use the PHP console provided by the package 
-[ang3/php-mohaa-builder](https://github.com/Ang3/php-mohaa-builder).
-
 ### SDK only
 
 Open a command console, enter your project directory and execute the
@@ -57,6 +51,12 @@ $ composer global require ang3/mohaa-sdk
 
 Binaries are now accessible from your global composer binaries. 
 Add the path of the Composer binaries directory in your environment variable `PATH` to launch tools easily.
+
+### Builder
+
+To easily build, test and release your contents, 
+I suggest you to use the PHP console provided by the package 
+[ang3/php-mohaa-builder](https://github.com/Ang3/php-mohaa-builder).
 
 Links
 =====
