@@ -10,13 +10,13 @@
     }
   ],
   "bin": [
-    "bin/mbuilder/MBuilder.exe",
-    "bin/mohradiant/mohradiant.exe",
-    "bin/mohradiant/mohradiant_fr.exe",
-    "bin/tools/BSP_Viewer3D.exe",
-    "bin/tools/BspToMap.exe",
-    "bin/tools/MohaaScriptEditor.exe",
-    "bin/tools/MohaaTikEditor.exe",
-    "bin/tools/Pakscape.exe"
+    "mbuilder/MBuilder.exe",
+    "mohradiant/mohradiant.exe",
+    "mohradiant/mohradiant_fr.exe",
+    "tools/BSP_Viewer3D.exe",
+    "tools/BspToMap.exe",
+    "tools/MohaaScriptEditor.exe",
+    "tools/MohaaTikEditor.exe",
+    "tools/Pakscape.exe"
   ]
 }
