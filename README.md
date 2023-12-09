@@ -30,7 +30,7 @@ Installation
 Zip archive
 -----------
 
-Download ZIP file here.
+[Download ZIP file here.](https://github.com/Ang3/mohaa-sdk/archive/refs/heads/main.zip)
 
 Composer (PHP)
 --------------
