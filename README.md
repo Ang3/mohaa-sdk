@@ -24,11 +24,16 @@ Contents
 	- Packscape.exe: create/edit .pk3 files
 	- BSP_Viewer3D.exe: a basic BSP viewer 3D.
 
+Requirements
+============
+
+All binaries provided by this package should be used on Windows.
+
 Installation
 ============
 
-Zip archive
------------
+Zip archive (binaries)
+----------------------
 
 [Download ZIP file here.](https://github.com/Ang3/mohaa-sdk/archive/refs/heads/main.zip)
 
