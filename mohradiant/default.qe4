@@ -1,9 +1,9 @@
 {
 "brush_primit" "0"
-"basepath" "D:\EAGAMES\MOHDA"
+"basepath" ""
 "rshcmd" ""
-"autosave" "D:\EAGAMES\MOHDA\main\maps\obj"
-"mapspath" "D:\EAGAMES\MOHDA\main\maps\obj"
+"autosave" ""
+"mapspath" ""
 "remotebasepath" ""
 "modelmask" "*.tik"
 "entitydir" "code/"
