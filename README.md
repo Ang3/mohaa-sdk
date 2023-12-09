@@ -5,7 +5,7 @@ This package provides MOHAA SDK and tools for developers to create contents.
 MOHAA has been developed with the engine `Quake3`.
 
 This game is now free. You can download and modify it easily to create awesome contents.
-To download the game: [https://classiccup.frontspawn.com/mohaa](Download MOHAA).
+To download the game: [Download MOHAA](https://classiccup.frontspawn.com/mohaa).
 
 Contents
 ========
@@ -39,7 +39,7 @@ Composer (PHP)
 
 To easily build, test and release your contents, 
 I suggest you to use the PHP console provided by the package 
-[https://github.com/Ang3/php-mohaa-builder](ang3/php-mohaa-builder).
+[ang3/php-mohaa-builder](https://github.com/Ang3/php-mohaa-builder).
 
 ### SDK only
 
@@ -59,16 +59,16 @@ Links
 Links for tutorials and others useful contents:
 
 - Discord servers
-	- [https://discord.gg/p3jD8h3c](MOHAA community)
+	- [MOHAA community](https://discord.gg/p3jD8h3c)
 - French
-	- [https://www.amigos3d.fr/tutos_moh_index.php](Amigos3D): tutorials of the famous french creator **Amigos3D** from the old **Caskami Prod**
-	- [http://tropheus.tropheus.free.fr/sommaire.html](Tropheus tutorials): advanced tutorials to understand the language and others basics
+	- [Amigos3D](https://www.amigos3d.fr/tutos_moh_index.php): tutorials of the famous french creator **Amigos3D** from the old **Caskami Prod**
+	- [Tropheus tutorials](http://tropheus.tropheus.free.fr/sommaire.html): advanced tutorials to understand the language and others basics
 - English
-	- [https://github.com/gtsh77/MOHTools](gtsh77/MOHTools): another repository for the MOHAA SDK where you can find more information about SDK usage.
-	- [https://www.mohaaaa.co.uk/AAAAMOHAA/content/guides-and-tutorials](mohaaaa.co.uk guides and tutorials): The reference for contents
-		- Scripting advices: [https://mohaaaa.co.uk/AAAAMOHAA/sites/default/files/AAAA/guide/mohaa_scripting_advice.pdf](Mohaa_Scripting_Advice) by`**chrissstrahl**
+	- [gtsh77/MOHTools](https://github.com/gtsh77/MOHTools): another repository for the MOHAA SDK where you can find more information about SDK usage.
+	- [mohaaaa.co.uk guides and tutorials](https://www.mohaaaa.co.uk/AAAAMOHAA/content/guides-and-tutorials): The reference for contents
+		- Scripting advices: [Mohaa_Scripting_Advice](https://mohaaaa.co.uk/AAAAMOHAA/sites/default/files/AAAA/guide/mohaa_scripting_advice.pdf) by`**chrissstrahl**
 	- Scripting:
-		- [https://www.x-null.net/forums/forums/75-Developer-Documentation-for-Scripting](Developer Documentation for Scripting)
+		- [Developer Documentation for Scripting](https://www.x-null.net/forums/forums/75-Developer-Documentation-for-Scripting)
 
 You can find some others useful links or contents. I will add others later.
 
