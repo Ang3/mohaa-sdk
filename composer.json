@@ -3,7 +3,6 @@
   "type": "binary",
   "description": "MOHAA SDK for mods and maps development.",
   "keywords": ["mohaa", "sdk", "mod", "map", "making", "mods", "maps"],
-  "license": "MIT",
   "authors": [
     {
       "name": "Joanis ROUANET",
