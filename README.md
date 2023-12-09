@@ -66,7 +66,7 @@ Links for tutorials and others useful contents:
 - English
 	- [gtsh77/MOHTools](https://github.com/gtsh77/MOHTools): another repository for the MOHAA SDK where you can find more information about SDK usage.
 	- [mohaaaa.co.uk guides and tutorials](https://www.mohaaaa.co.uk/AAAAMOHAA/content/guides-and-tutorials): The reference for contents
-		- Scripting advices: [Mohaa_Scripting_Advice](https://mohaaaa.co.uk/AAAAMOHAA/sites/default/files/AAAA/guide/mohaa_scripting_advice.pdf) by`**chrissstrahl**
+		- Scripting advices: [Mohaa_Scripting_Advice](https://mohaaaa.co.uk/AAAAMOHAA/sites/default/files/AAAA/guide/mohaa_scripting_advice.pdf) by **chrissstrahl**
 	- Scripting:
 		- [Developer Documentation for Scripting](https://www.x-null.net/forums/forums/75-Developer-Documentation-for-Scripting)
 
