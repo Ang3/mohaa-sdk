@@ -11,7 +11,6 @@
     }
   ],
   "bin": [
-    "bin/console",
     "bin/mbuilder/MBuilder.exe",
     "bin/mohradiant/mohradiant.exe",
     "bin/mohradiant/mohradiant_fr.exe",
